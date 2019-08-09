@@ -1,2 +1,2 @@
-# basic_portfolio
-Homework Assignment #1
+# Basic-Portfolio
+Beginning portfolio
